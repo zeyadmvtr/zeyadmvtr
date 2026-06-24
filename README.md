@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Zeyad Abdelmoneim 👋
 
-<!--
-**zeyadmvtr/zeyadmvtr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer | Machine Learning | Deep Learning
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Computer Science graduate passionate about Artificial Intelligence,
+Machine Learning, Deep Learning, and Computer Vision.
+
+## Tech Stack
+
+- Python
+- TensorFlow
+- Keras
+- Scikit-Learn
+- OpenCV
+- Pandas
+- NumPy
+- SQL
+- AWS
+
+## Featured Projects
+
+### Signature Verification System
+Deep learning system for verifying genuine and forged signatures.
+
+### Time Series Anomaly Detection
+Anomaly detection on high-dimensional datasets using TensorFlow.
+
+### Computer Vision Projects
+Image classification and feature extraction using CNNs.
+
+## Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/zeyad-moneim-0aa118253/
+
+Email: matterzeyad@gmail.com
