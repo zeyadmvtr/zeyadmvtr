@@ -1,3 +1,4 @@
+<img src="Portrait-Oriented Digital Banner with Visual Split.png">
 # Hi, I'm Zeyad Abdelmoneim 👋
 
 AI Engineer | Machine Learning | Deep Learning
