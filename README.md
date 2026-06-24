@@ -8,9 +8,9 @@ AI Engineer | Machine Learning | Deep Learning
 Computer Science graduate passionate about Artificial Intelligence,
 Machine Learning, Deep Learning, and Computer Vision.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeyadmvtr&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeyadmvtr&layout=compact)
 
 ## Tech Stack
 
